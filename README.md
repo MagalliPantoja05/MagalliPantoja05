@@ -10,16 +10,13 @@
 
 ### Lenguajes de Programación
 
-- Java
 - JavaScript (JS)
 - CSS
 - HTML5
-- Python
 
 ### Bases de Datos
 
-- MySQL
-- NoSQL
+- SQL
 
 ### Herramientas de Desarrollo
 
@@ -33,21 +30,6 @@
 ## Experiencia Laboral
 
 Como estudiante de Ingeniería en Sistemas Computacionales, he adquirido conocimientos prácticos y habilidades en el desarrollo de software. He trabajado en proyectos académicos y personales que me han permitido aplicar mis habilidades en programación y bases de datos.
-
-## Proyectos Destacados
-
-1. **Sistema de Gestión de Inventario (Java, MySQL)**
-   - Desarrollé un sistema de gestión de inventario para una empresa minorista utilizando Java para la lógica de negocio y MySQL para la base de datos. El sistema permitió un seguimiento eficiente de los productos y las ventas.
-
-2. **Sitio Web Personal (HTML5, CSS, JS)**
-   - Creé un sitio web personal desde cero utilizando HTML5, CSS y JavaScript para la funcionalidad interactiva. El sitio incluye una sección de portafolio, un blog y un formulario de contacto.
-
-3. **Script de Automatización (Python)**
-   - Escribí un script en Python para automatizar tareas repetitivas en el proceso de desarrollo de software. El script fue utilizado para realizar pruebas de regresión en un proyecto web.
-
-## Educación
-
-Actualmente me encuentro en mis últimos cuatrimestres de la licenciatura en Ingeniería en Sistemas Computacionales.
 
 ## Certificaciones
 
